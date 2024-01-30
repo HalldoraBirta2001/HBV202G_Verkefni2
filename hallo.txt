@@ -1,3 +1,8 @@
 HALLÓ HEIMUR!
+<<<<<<< HEAD
 Hello world!?
 HALLO WELT?!!
+=======
+Hello world?!
+HALLO WELT?
+>>>>>>> 6a8943601f9058305017ca18c33517835a130478
